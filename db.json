@@ -1,0 +1,11 @@
+{
+    "carros": [
+        {
+            "id": 1,
+            "marca": "Chevrolet",
+            "modelo": "Celta",
+            "placa": "PWO-7887",
+            "foto": "https://www.autoo.com.br/fotos/2016/1/1280_960/chevrolet_Celta_2015_1_1312016_414_1280_960.jpg"
+        }
+    ]
+}
